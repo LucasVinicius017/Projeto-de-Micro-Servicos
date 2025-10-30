@@ -10,3 +10,6 @@ Formulário de Contato e Seleção de serviços
 
 
 <img width="666" height="558" alt="image" src="https://github.com/user-attachments/assets/7b90d611-152d-4beb-857d-c22317c52400" />
+
+Quem somos:
+<img width="1164" height="828" alt="image" src="https://github.com/user-attachments/assets/1bc2d70f-2799-4cce-8796-edd4a8b726ea" />
