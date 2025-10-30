@@ -13,3 +13,7 @@ Formulário de Contato e Seleção de serviços
 
 Quem somos:
 <img width="1164" height="828" alt="image" src="https://github.com/user-attachments/assets/1bc2d70f-2799-4cce-8796-edd4a8b726ea" />
+
+Cadastro cliente
+<img width="991" height="703" alt="image" src="https://github.com/user-attachments/assets/9d2f0725-e937-4c44-9175-ba0973400d50" />
+
