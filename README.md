@@ -17,3 +17,5 @@ Quem somos:
 Cadastro cliente
 <img width="991" height="703" alt="image" src="https://github.com/user-attachments/assets/9d2f0725-e937-4c44-9175-ba0973400d50" />
 
+Cadastro colaborador
+<img width="992" height="706" alt="image" src="https://github.com/user-attachments/assets/f45e95e3-7f0e-4f30-b103-f2c098ea6b3e" />
