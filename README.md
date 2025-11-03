@@ -19,3 +19,7 @@ Cadastro cliente
 
 Cadastro colaborador
 <img width="992" height="706" alt="image" src="https://github.com/user-attachments/assets/f45e95e3-7f0e-4f30-b103-f2c098ea6b3e" />
+
+Logotipo
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/56c3880a-b320-45f6-9b9a-51d0dbf76270" />
+
