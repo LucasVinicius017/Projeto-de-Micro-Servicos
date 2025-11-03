@@ -23,3 +23,7 @@ Cadastro colaborador
 Logotipo
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/56c3880a-b320-45f6-9b9a-51d0dbf76270" />
 
+Home funcionarios
+<img width="1126" height="785" alt="image" src="https://github.com/user-attachments/assets/b0694c06-db3e-4a94-a74c-6f60222da888" />
+
+
