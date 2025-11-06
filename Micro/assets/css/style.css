@@ -1,3 +1,36 @@
+main{
+    height: 100vh;
+    width: 100vw;
+}
+.titulo{
+    margin-bottom: 50px;
+    font-size: 30px;
+}
+.catalogo{
+    height: 800px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+}
+.card{
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(189, 189, 189);
+    height: 550px;
+    width: 400px;
+    margin-left: 30px;
+    font-size: 30px;
+}
+
+.conteudoCard{
+    margin:auto;
+    border-radius: 20px;
+    margin-top: 20px;
+    background-color: rgb(255, 255, 255);
+    height: 300px;
+    width: 350px;
 :root
 {
     --corDeFundo: white;
