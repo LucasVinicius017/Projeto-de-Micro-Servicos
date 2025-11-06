@@ -1,19 +1,34 @@
-main{
+:root
+{
+    --corDeFundo: white;
+    --corPrimaria: #062A68;
+    --corSegundaria: #05BCF5;
+    --corTercearia: #0571F5;
+    --corTexto: white;
+}
+
+main
+{
     height: 100vh;
     width: 100vw;
 }
-.titulo{
+
+.titulo
+{
     margin-bottom: 50px;
     font-size: 30px;
 }
-.catalogo{
+
+.catalogo
+{
     height: 800px;
     width: 100%;
     display: flex;
     justify-content: center;
-
 }
-.card{
+
+.card
+{
     border-radius: 20px;
     display: flex;
     flex-direction: column;
@@ -24,22 +39,15 @@ main{
     font-size: 30px;
 }
 
-.conteudoCard{
+.conteudoCard
+{
     margin:auto;
     border-radius: 20px;
     margin-top: 20px;
     background-color: rgb(255, 255, 255);
     height: 300px;
     width: 350px;
-:root
-{
-    --corDeFundo: white;
-    --corPrimaria: #062A68;
-    --corSegundaria: #05BCF5;
-    --corTercearia: #0571F5;
-    --corTexto: white;
 }
-
 
 body
 {
