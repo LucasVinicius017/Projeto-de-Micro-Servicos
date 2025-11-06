@@ -37,6 +37,7 @@ main{
     --corPrimaria: #062A68;
     --corSegundaria: #05BCF5;
     --corTercearia: #0571F5;
+    --corTexto: white;
 }
 
 
@@ -55,6 +56,7 @@ footer
     align-items: center;
     display: flex;
     justify-content: center;
+    color: var(--corTexto);
 }
 
 .links
@@ -65,5 +67,5 @@ footer
     font-size: 20px;
     margin-right: 30px;
     margin-left: 20px;
-    
+    color: var(--corTexto);
 }
