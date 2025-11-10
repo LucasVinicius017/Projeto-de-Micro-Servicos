@@ -1,69 +1,129 @@
-main{
-    height: 100vh;
-    width: 100vw;
-}
-.titulo{
-    margin-bottom: 50px;
-    font-size: 30px;
-}
-.catalogo{
-    height: 800px;
-    width: 100%;
-    display: flex;
-    justify-content: center;
-
-}
-.card{
-    border-radius: 20px;
-    display: flex;
-    flex-direction: column;
-    background-color: rgb(189, 189, 189);
-    height: 550px;
-    width: 400px;
-    margin-left: 30px;
-    font-size: 30px;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Segoe UI", sans-serif;
 }
 
-.conteudoCard{
-    margin:auto;
-    border-radius: 20px;
-    margin-top: 20px;
-    background-color: rgb(255, 255, 255);
-    height: 300px;
-    width: 350px;
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+.header {
+  background-color: #0b2a63;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px 32px;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.logo img {
+  width: 40px;
+  height: 40px;
+  border-radius: 8px;
+  background-color: white;
+}
+
+.menu a {
+  color: white;
+  margin-left: 20px;
+  text-decoration: none;
+  font-size: 0.95rem;
+}
+
+.menu a:hover {
+  text-decoration: underline;
+}
+
+.hero {
+  text-align: center;
+  margin: 60px 20px 40px;
+}
+
+.hero h1 {
+  font-size: 1.5rem;
+  color: #000;
+  margin-bottom: 20px;
+  line-height: 1.4em;
+}
+
+.btn-login {
+  background-color: #2a66f5;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+  font-size: 1rem;
+}
+
+.btn-login:hover {
+  background-color: #1e4ddf;
+}
+
+.servicos {
+  padding: 20px 40px;
+}
+
+.servicos h2 {
+  font-size: 1.2rem;
+  margin-bottom: 20px;
+}
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 20px;
+  justify-items: center;
+}
+
+.card {
+  width: 180px;
+  height: 120px;
+  background-color: #ccc;
+  border-radius: 10px;
+}
+
+.footer {
+  background-color: #0b2a63;
+  color: white;
+  margin-top: auto;
+  padding: 25px 40px;
+}
+
+.links h3 {
+  font-size: 1rem;
+  margin-bottom: 10px;
+}
+
+.links-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.links-grid a {
+  color: white;
+  text-decoration: none;
+  font-size: 0.95rem;
+}
+
+.links-grid a:hover {
+  text-decoration: underline;
+}
+
 :root
 {
     --corDeFundo: white;
     --corPrimaria: #062A68;
     --corSegundaria: #05BCF5;
     --corTercearia: #0571F5;
-}
-
-
-body
-{
-    background-color: green;
-}
-
-footer
-{
-    background-color: var(--corPrimaria);
-}
-
-.foo
-{
-    align-items: center;
-    display: flex;
-    justify-content: center;
-}
-
-.links
-{
-    text-align: center;
-    display: flex;
-    justify-content: space-around;
-    font-size: 20px;
-    margin-right: 30px;
-    margin-left: 20px;
-    
 }
